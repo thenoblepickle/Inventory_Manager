@@ -11,7 +11,7 @@ function checkUsedItem(item) {
 
 
 const myCharacter = {
-    name: "Elara",
+    name: "broidk",
     health: 100,
     inventory: {
         gold: 50,
